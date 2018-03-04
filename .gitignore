@@ -1,0 +1,15 @@
+bin/
+build/
+out/
+target/
+*.iml
+*.ipr
+*.iws
+*.log
+.classpath
+.project
+.settings/
+.idea/
+_site/
+.bak/
+*.dat
